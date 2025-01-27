@@ -1,9 +1,1 @@
-[33m2b98085[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to origin/main
-[33m20d81bc[m HEAD@{1}: commit: update
-[33m315855c[m HEAD@{2}: commit: update .env
-[33me9ecbe7[m HEAD@{3}: commit: latest update
-[33m56d990a[m HEAD@{4}: commit: update
-[33mdae7d3a[m HEAD@{5}: commit: new commit
-[33m8214703[m HEAD@{6}: commit: removed secret key
-[33mc3e3dbc[m HEAD@{7}: commit: summarizer_with_ChatGPT update
-[33m2b98085[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{8}: clone: from https://github.com/daniel-aasa/Text-Summarization-Using-OpenAI-s-GPT-4-and-Beautiful-Soup
+

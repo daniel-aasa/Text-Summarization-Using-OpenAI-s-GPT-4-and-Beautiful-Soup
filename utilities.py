@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 # Load environment variables
 load_dotenv(override=True)
 api_key = os.getenv('OPENAI_KEY')
-#Save you OpenAI key in a .env file
+#Save your OpenAI key in a .env file - Type OPENAI_KEY=sk-proj....... and save your file.
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
